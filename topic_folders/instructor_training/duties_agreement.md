@@ -14,10 +14,7 @@ community, through leadership roles. Trainers often play leadership roles in the
 
 ##### Certification Renewal Process
 
-Version 1.0.0 -- Approved 16 February, 2022
-
-NOTE: This documentation replaces the prior Trainer Agreement. Membership documents that referred to the Trainer Agreement should continue to follow its specifications. 
-[Complete language for the Trainer Agreement version 2.0.0 may be found in the repository for this site](https://github.com/carpentries/docs.carpentries.org/blob/11d31e22a52c1347d8eb36dad0298d266cdfa485/topic_folders/instructor_training/duties_agreement.md).
+Version 2.0.0 -- Approved 16 February, 2022
 
 Trainer Certification will expire and be renewed annually in March. New Trainers who have not yet been certified for a full year in March will be automatically renewed for another year.
 
